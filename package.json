@@ -1,0 +1,14 @@
+{
+  "name": "wss-example",
+  "version": "1.0.0",
+  "description": "wss example",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jarrett Bariel (jarrett.bariel@galvanize.com)",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "ws": "^7.2.0"
+  }
+}
